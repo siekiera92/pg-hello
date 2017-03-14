@@ -20,3 +20,11 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function jaInfo() {
+
+	info =  'Piotr Siekierski a reszty nie musisz znać';
+
+	navigator.notification.alert(info);
+	
+}
